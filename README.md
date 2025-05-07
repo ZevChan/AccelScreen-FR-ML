@@ -1,6 +1,6 @@
 # AccelScreen-FR-ML
 
-The full 48W dataset is not included in this repository due to storage constraints.  
+The full 86W dataset is not included in this repository due to storage constraints.  
 To obtain the dataset, please formally request through: czw1995@outlook.com
 
 For implementation questions or data specifications: czw1995@outlook.com
